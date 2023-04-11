@@ -3,7 +3,7 @@ Founded by MIT scientist George Woltman in 1996, GIMPS is an ongoing distributed
 <p/>
 The GIMPS project uses volunteer computational powers with a free program to search for primes. Essentially anyone that has a PC with a decent CPU can start their prime searching, it usually will take weeks to finish checking a new exponent. However, there are cash rewards offered to lucky person who finds a new prime, that include 3,000 (USD) GIMPS Research Discovery Award and the Electronic Frontier Foundation Award of 150,000 (USD) to the first person or group to discover a 1,000,000 digit prime number! You can make history too!
 <br/>
-See <a href="https://www.mersenne.org/"> https://www.mersenne.org/ </a>
+See <a href="https://www.mersenne.org/"> https://www.mersenne.org/ </a> for details.
 
 
 ### My Participation (last updated: 4/11/2023)
