@@ -1,5 +1,4 @@
 ### The Great Internet Mersenne Prime Search
-<br/>
 Founded by MIT scientist George Woltman in 1996, GIMPS is an ongoing distributed computing project that has been actively searching for Mersenne primes. Currently there were 51 Mersenne primes found, of which 17 were found by GIMPS and they are the largest and latest ones. Prof. Chris Caldwell maintains an authoritative web site on the largest known primes, and has an excellent history of Mersenne primes.
 <p/>
 This project uses volunteer computational powers with a free program to search for primes. There are cash rewards offered to anyone lucky enough to find a new prime. The cash you could win a (USD) $3,000 cash GIMPS Research Discovery Award for each Mersenne prime discovered, and the Electronic Frontier Foundation is offering a $150,000 award to the first person or group to discover a 100 million digit prime number! See how GIMPS will distribute this award if we are lucky enough to find the winning 100 million digit prime.
