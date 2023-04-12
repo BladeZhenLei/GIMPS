@@ -6,7 +6,7 @@ The GIMPS project provides a free program that uses volunteer computational powe
 
 ### My Participation (last updated: 4/11/2023)
 Currently I have three machines that are assigned to the following tasks:
-<br/>
+<p/>
 $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
 $M(69636487)$ - 20,962,672 digits - Lucas–Lehmer Test (Double Checking)
