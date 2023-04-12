@@ -5,7 +5,7 @@ The GIMPS project uses volunteer computational powers with a free program to sea
 
 
 ### My Participation (last updated: 4/11/2023)
-Currently I have three PCs that are assigned to the following tasks:
+Currently I have three machines that are assigned to the following tasks:
 <br/>
 $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
