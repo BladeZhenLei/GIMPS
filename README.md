@@ -10,6 +10,8 @@ $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking) - Comp
 <p/>
 I have several machines that are currently assigned to the following tasks:
 <br/>
+$M(69525371)$ - 20,962,672 digits - Lucas–Lehmer Test (Double Checking) - In Progress
+<br/>
 $M(69636487)$ - 20,962,672 digits - Lucas–Lehmer Test (Double Checking) - In Progress
 <br/>
 $M(116803187)$ - 35,161,263 digits - Probable Prime Test (First Check) - In Progress
