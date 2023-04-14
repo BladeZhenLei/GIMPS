@@ -3,15 +3,14 @@ Founded by MIT scientist George Woltman in 1996, GIMPS is an ongoing distributed
 <p/>
 The GIMPS project provides a free program that uses volunteer computational powers to search for primes. Essentially anyone that has a PC with a decent CPU can start their prime search, it will usually take weeks to months for checking a new exponent with a specific method, if the number is relatively small and the computer runs 24/7. There are cash rewards offered to lucky person who finds a new prime, that include 3,000 (USD) GIMPS Research Discovery Award and 150,000 (USD) Electronic Frontier Foundation Award to the first person or group to discover a 100,000,000 digit prime number! You can make history too! See <a href="https://www.mersenne.org/"> https://www.mersenne.org/ </a> for details.
 
-
-### My Participation (last updated: 4/11/2023)
-Currently I have three machines that are assigned to the following tasks:
+### My Contribution
+Currently I have several machines that are assigned to the following tasks:
 <p/>
-$M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking)
+$M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking) - Completed (4/14/2023)
 <br/>
-$M(69636487)$ - 20,962,672 digits - Lucas–Lehmer Test (Double Checking)
+$M(69636487)$ - 20,962,672 digits - Lucas–Lehmer Test (Double Checking) - In Progress
 <br/>
-$M(116803187)$ - 35,161,263 digits - Probable Prime Test (First Check)
+$M(116803187)$ - 35,161,263 digits - Probable Prime Test (First Check) - In Progress
 
 
 
