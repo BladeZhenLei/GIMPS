@@ -5,11 +5,10 @@ The GIMPS project provides a free program that uses volunteer computational powe
 
 ### My Contribution
 I have finished the following tasks:
-<p/>
+<br/>
 $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking) - Completed (4/14/2023)
 <p/>
 I have several machines that are currently assigned to the following tasks:
-<p/>
 <br/>
 $M(69636487)$ - 20,962,672 digits - Lucas–Lehmer Test (Double Checking) - In Progress
 <br/>
