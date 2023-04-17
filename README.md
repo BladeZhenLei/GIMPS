@@ -25,6 +25,11 @@ $M(116803187)$ - 35,161,263 digits - Probable Prime Test (First Check)
 $M(262244243)$ - 78,943,384 digits - Trial Factor Test
 <br/>
 $M(262244263)$ - 78,943,390 digits - Trial Factor Test
+<br/>
+$M(262272343)$ - 78,951,843 digits - Trial Factor Test
+<br/>
+$M(262276669)$ - 78,953,145 digits - Trial Factor Test
+
 
 
 
