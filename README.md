@@ -8,7 +8,7 @@ The following tasks have been completed:
 <br/>
 $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking)
 <p/>
-As of now, several computers that are currently assigned to the following tasks:
+As of now, several computers that are currently assigned to these tasks:
 <br/>
 $M(69525371)$ - 20,929,233 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
