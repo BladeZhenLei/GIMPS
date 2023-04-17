@@ -8,7 +8,7 @@ The following tasks have been completed:
 <br/>
 $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking)
 <p/>
-Several computers that are currently assigned to the following tasks:
+As of now, several computers that are currently assigned to the following tasks:
 <br/>
 $M(69525371)$ - 20,929,233 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
@@ -22,9 +22,9 @@ $M(69636487)$ - 20,962,672 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
 $M(116803187)$ - 35,161,263 digits - Probable Prime Test (First Check)
 <br/>
-$M(262244243)$ - 78,943,384 digits - Trial Factor Test (2^ to 2^)
+$M(262244243)$ - 78,943,384 digits - Trial Factor Test
 <br/>
-$M(262244263)$ - 78,943,390 digits - Trial Factor Test (2^ to 2^)
+$M(262244263)$ - 78,943,390 digits - Trial Factor Test
 
 
 
