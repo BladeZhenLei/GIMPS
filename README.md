@@ -10,7 +10,7 @@ The following tasks have been completed:
 <br/>
 $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking)
 <p/>
-There are <strong>6</strong> computers are currently assigned to these tasks:
+There are <strong>6</strong> computers currently assigned to these tasks:
 <br/>
 $M(69525371)$ - 20,929,233 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
