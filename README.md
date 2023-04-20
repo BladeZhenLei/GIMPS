@@ -13,7 +13,7 @@ $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking)
 $M(69649927)$ - 20,966,718 digits - Lucas–Lehmer Test (Double Checking)
 <p/>
 
-There are <strong>6</strong> CPUs currently assigned to these tasks:
+There are <strong>6 CPUs</strong> currently assigned to these tasks:
 <br/>
 $M(69525371)$ - 20,929,233 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
