@@ -11,6 +11,8 @@ The following tasks have been completed:
 $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
 $M(69649927)$ - 20,966,718 digits - Lucas–Lehmer Test (Double Checking)
+<br/>
+$M(69636487)$ - 20,962,672 digits - Lucas–Lehmer Test (Double Checking)
 <p/>
 
 There are <strong>6 CPUs</strong> currently assigned to these tasks:
@@ -21,11 +23,11 @@ $M(69602569)$ - 20,952,462 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
 $M(69646999)$ - 20,965,836 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
-$M(69636487)$ - 20,962,672 digits - Lucas–Lehmer Test (Double Checking)
-<br/>
 $M(116803187)$ - 35,161,263 digits - Probable Prime Test (First Check)
 <br/>
 $M(116929831)$ - 35,199,387 digits - Probable Prime Test (First Check)
+<br/>
+$M(70228723)$ - 21,140,953 digits - Lucas–Lehmer Test (Double Checking)
 
 
 
