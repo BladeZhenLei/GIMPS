@@ -6,7 +6,7 @@ The GIMPS project provides a free program that uses volunteer computational powe
 ### My Contribution (Last Updated: 4/22/2023)
 Total CPU Time Spent: <strong> 1098 GHz Days </strong>.
 <p>
-The following tasks have been completed:
+The following have been completed:
 <br/>
 $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
@@ -17,7 +17,7 @@ $M(69649927)$ - 20,966,718 digits - Lucas–Lehmer Test (Double Checking)
 $M(116803187)$ - 35,161,263 digits - Probable Prime Test (First Check)
 <p/>
 
-There are <strong>6 CPUs</strong> currently assigned to these tasks:
+There are <strong>6 CPUs</strong> currently assigned to:
 <br/>
 $M(69525371)$ - 20,929,233 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
