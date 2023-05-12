@@ -3,8 +3,8 @@ Founded by MIT scientist George Woltman in 1996, GIMPS is an ongoing distributed
 <p/>
 The GIMPS project provides a free program that uses volunteer computational powers to search for primes. Essentially anyone that has a PC with a decent CPU can start their prime search, it will usually take weeks to months for checking a new exponent with a specific method, if the number is relatively small and the computer runs 24/7. There are cash rewards offered to lucky person who finds a new prime, that include 3,000 (USD) GIMPS Research Discovery Award and 150,000 (USD) Electronic Frontier Foundation Award to the first person or group to discover a 100,000,000 digit prime number! You can make history too! See <a href="https://www.mersenne.org/"> https://www.mersenne.org/ </a> for details.
 
-### My Contribution (Last Updated: 4/22/2023)
-Total CPU Time Spent: <strong> 1098 GHz Days </strong>.
+### My Contribution (Last Updated: 2023.05.12)
+Total CPU Time Spent: <strong> 1284 GHz Days </strong>.
 <p>
 The following have been completed:
 <br/>
@@ -15,11 +15,11 @@ $M(69636487)$ - 20,962,672 digits - Lucas–Lehmer Test (Double Checking)
 $M(69649927)$ - 20,966,718 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
 $M(116803187)$ - 35,161,263 digits - Probable Prime Test (First Check)
+<br/>
+$M(69525371)$ - 20,929,233 digits - Lucas–Lehmer Test (Double Checking)
 <p/>
 
 There are <strong>6 CPUs</strong> currently assigned to:
-<br/>
-$M(69525371)$ - 20,929,233 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
 $M(69602569)$ - 20,952,462 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
@@ -30,6 +30,8 @@ $M(70228723)$ - 21,140,953 digits - Lucas–Lehmer Test (Double Checking)
 $M(116915411)$ - 35,195,046 digits - Probable Prime Test (First Check)
 <br/>
 $M(116929831)$ - 35,199,387 digits - Probable Prime Test (First Check)
+<br/>
+$M(70243819)$ - 21,145,497 digits - Lucas–Lehmer Test (Double Checking)
 
 
 
