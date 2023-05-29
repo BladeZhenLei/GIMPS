@@ -8,7 +8,7 @@ Total CPU Time Spent: <strong> 1656 GHz Days </strong>
 <br/>
 Worldwide Rank: <strong> 1522 </strong>
 <p/>
-The following assignments have been completed:
+The following <strong> 7 </strong> assignments have been completed:
 <br/>
 $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
@@ -26,7 +26,7 @@ $M(69646999)$ - 20,965,836 digits - Lucas–Lehmer Test (Double Checking)
 <p/>
 
 
-There are <strong>4 CPUs</strong> currently assigned to:
+There are <strong> 4 CPUs </strong> currently assigned to:
 <br/>
 $M(70228723)$ - 21,140,953 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
