@@ -19,13 +19,14 @@ $M(69649927)$ - 20,966,718 digits - Lucas–Lehmer Test (Double Checking)
 $M(116803187)$ - 35,161,263 digits - Probable Prime Test (First Check)
 <br/>
 $M(69525371)$ - 20,929,233 digits - Lucas–Lehmer Test (Double Checking)
-<p/>
-
-There are <strong>4 CPUs</strong> currently assigned to:
 <br/>
 $M(69602569)$ - 20,952,462 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
 $M(69646999)$ - 20,965,836 digits - Lucas–Lehmer Test (Double Checking)
+<p/>
+
+
+There are <strong>4 CPUs</strong> currently assigned to:
 <br/>
 $M(70228723)$ - 21,140,953 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
