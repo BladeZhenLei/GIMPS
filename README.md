@@ -8,7 +8,7 @@ Total CPU Time Spent: <strong> 1656 GHz Days </strong>.
 <br/>
 Current Rank: <strong> 1522 </strong>.
 <p/>
-The following have been completed:
+The following assignments have been completed:
 <br/>
 $M(69635581)$ - 20,962,399 digits - Lucas–Lehmer Test (Double Checking)
 <br/>
