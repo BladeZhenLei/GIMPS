@@ -5,8 +5,6 @@ The GIMPS project provides a free program that uses volunteer computational powe
 
 ### My Contribution to the Project (Last Updated On: 2023/05/28)
 Total CPU Time Spent: <strong> 1656 GHz Days </strong>
-<br/>
-Worldwide Rank: <strong> 1522 </strong>
 <p/>
 The following <strong> 7 </strong> assignments have been completed:
 <br/>
